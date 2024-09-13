@@ -1,5 +1,5 @@
-# Image-Classification-ReplyxLuiss-782201
-Machine Learning Project developed by Simone Granato (784641), Simone Luzi(782201) and Emiliano Trombetta (781521)
+# Machine Learning: Image Classification
+Machine Learning Challenge commissioned by Reply s.p.a.
 
 In this repository you can find:
 - Reply_dataset: The dataset provided by Reply, properly labeled into 10 classes for the task of image classification
